@@ -1,0 +1,1 @@
+An Age Calculator web application built using HTML, CSS, and JavaScript. This project calculates a user's age based on their date of birth and displays the result instantly. It is my first web development project and helped me improve my understanding of JavaScript, DOM manipulation, and responsive UI design
